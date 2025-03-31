@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository
 <br>
-author - sonusuman ojha
+author - sonusuman ojha(sonu)
